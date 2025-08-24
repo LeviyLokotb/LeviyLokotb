@@ -9,6 +9,8 @@
 - 00010001b y.o.
 - Пронаунсы придумайте сами
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 ## 🍋 Взаимодействовал с такими штуками
 ### 📜 Языки:
 - Golang
@@ -24,6 +26,8 @@
 - Ansible
 - SSH
 - QEMU
+
+
 
 ## 🔮 Если телепатия почему-то не работает:
 - Telegram: @voraxas
