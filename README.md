@@ -20,7 +20,7 @@
 - BASH
 - HTML, CSS, JavaScript
 
-![Go](https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/go/go-original-wordmark.svg)
+[Go](https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/go/go-original-wordmark.svg)
 ![C++](https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/cplusplus/cplusplus-original.svg)
 ![C#](https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/csharp/csharp-original.svg)
 ![Python](https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/python/python-original.svg)
