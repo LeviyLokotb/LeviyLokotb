@@ -6,7 +6,7 @@
 ## 👀 Хто здесь?
 - cтудент Крымского Федерального Университета
 - 2 курс, направление Программная Инженерия (ПИ)
-- 00010001b y.o.
+- 00010010b y.o.
 - I use arch, btw
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeviyLokotb&show_icons=true&theme=radical)
