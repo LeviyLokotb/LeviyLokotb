@@ -5,16 +5,15 @@
 
 ## 👀 Хто здесь?
 - cтудент Крымского Федерального Университета
-- 2 курс, направление Программная Инженерия (ПИ)
-- 00010010b y.o.
+- 3 курс, направление Программная Инженерия (ПИ)
+- 00010011b y.o.
 - I use arch, btw
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeviyLokotb&show_icons=true&theme=radical)
 
 ## 🍋 Взаимодействовал с такими штуками
 ### 📜 Языки:
-- Golang
-- C++
+- Go
 - C#
 - Python
 - BASH
@@ -22,7 +21,6 @@
 
 <div id="langs">
   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/go/go-original-wordmark.svg" width="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/cplusplus/cplusplus-original.svg" width="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/csharp/csharp-original.svg" width="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/python/python-original.svg" width="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/bash/bash-original.svg" width="100"/>
@@ -31,6 +29,7 @@
 ### ⚙️ Технологии:
 - Git, Github, GitHub Actions, Github Pages
 - Docker, Docker Swarm
+- Postgres
 - Jenkins
 - Ansible
 - SSH
